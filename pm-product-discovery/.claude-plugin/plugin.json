@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Product discovery skills for PMs: ideation, experiments, assumption testing, feature prioritization, and customer interview synthesis.",
   "author": {
-    "name": "Pawe\u0142 Huryn",
+    "name": "Paweł Huryn",
     "email": "pawel@productcompass.pm",
     "url": "https://www.productcompass.pm"
   },
@@ -15,20 +15,5 @@
     "assumptions"
   ],
   "homepage": "https://www.productcompass.pm",
-  "license": "MIT",
-  "skills": [
-    "./skills/analyze-feature-requests",
-    "./skills/brainstorm-experiments-existing",
-    "./skills/brainstorm-experiments-new",
-    "./skills/brainstorm-ideas-existing",
-    "./skills/brainstorm-ideas-new",
-    "./skills/identify-assumptions-existing",
-    "./skills/identify-assumptions-new",
-    "./skills/interview-script",
-    "./skills/metrics-dashboard",
-    "./skills/opportunity-solution-tree",
-    "./skills/prioritize-assumptions",
-    "./skills/prioritize-features",
-    "./skills/summarize-interview"
-  ]
+  "license": "MIT"
 }
